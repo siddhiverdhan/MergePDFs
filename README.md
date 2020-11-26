@@ -1,6 +1,6 @@
 # Merge PDFs
 
-Often there is a need to merge multiple PDF files. This simple utility provides user option to browse PDF files and merge them.
+Often there is a need to merge multiple PDF files. This simple utility provides user option to browse PDF files using file dialog and merge them.
 
 ## Python packages needed to run this utility
 PySimpleGUI and PyPDF2
