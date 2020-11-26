@@ -8,4 +8,5 @@ PySimpleGUI and PyPDF2
 on your terminal(Mac) or command prompt(Windows)- simple do
 
 pip install PySimpleGUI
+
 pip install PyPDF2
