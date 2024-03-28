@@ -6,7 +6,7 @@ Often there is a need to PDF files. This simple utility provides user option to 
 tkinter and PyPDF2
 
 ## Steps to install required packages
-install the packages by
+install the packages by running
 
 python setup.py
 
