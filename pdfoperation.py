@@ -19,5 +19,3 @@ def read_pdf(file):
     reader = PdfReader(file)
     page =reader.pages[0]
     return page.extract_text()
-
-merge_pdf(file)
