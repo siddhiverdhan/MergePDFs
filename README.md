@@ -5,11 +5,18 @@ Often there is a need to PDF files. This simple utility provides user option to 
 ## Python packages needed to run this utility
 tkinter and PyPDF2
 
-## Steps to run this utility
+## Steps to install required packages
 install the packages by
 
 python setup.py
 
-pip install PySimpleGUI
+or
 
-pip install PyPDF2
+python3 setup.py
+
+## Steps to run this utility
+python pdfUI.py
+
+or
+
+python3 pdfUI.py
